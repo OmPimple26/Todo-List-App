@@ -65,7 +65,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-pink-200 min-h-[80vh] md:w-[35%]">
+      <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-pink-400 min-h-[80vh] md:w-[35%]">
         <h1 className="font-bold text-center text-3xl">
           iTask - Manage your todos at one place
         </h1>
