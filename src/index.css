@@ -5,5 +5,5 @@
 body{
     --tw-bg-opacity: 1;
     /* background-color: rgb(242, 175, 216); */
-    background-color: rgb(158, 4, 247);
+    background-color: linear-gradient(135deg, rgb(158, 4, 247), rgb(236, 72, 153));
 }
